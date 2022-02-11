@@ -12,4 +12,12 @@ let priceOfProduct = 30;
 
 const costProduct = numberOfProduct * priceOfProduct + '$';
 
-console.log(costProduct);
+const item = 'TV';
+const count = 4;
+const category = 'video';
+const price = 700;
+
+const cost = count * price + '$';
+
+console.log(item);
+console.log(`Общая сумма товара: ${cost}`);
