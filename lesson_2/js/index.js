@@ -17,6 +17,6 @@
 
     const cost = count * price + '$';
 
-    console.log(item);
-    console.log(`Общая сумма товара: ${cost}`);
+    // console.log(item);
+    // console.log(`Общая сумма товара: ${cost}`);
 }
